@@ -38,7 +38,7 @@ function ProductEdit() {
 
   return (
     <section>
-      <h2 className="title">{t("editProduct")}</h2>
+      <h2 className="title">{t("editProjects")}</h2>
       {productEdit}
     </section>
   );

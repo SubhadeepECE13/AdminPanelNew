@@ -7,9 +7,9 @@ const sidebarNav = [
   },
   {
     link: "/products",
-    section: "products",
+    section: "Projects",
     icon: "icon-park-outline:ad-product",
-    text: "Products",
+    text: "Projects",
   },
   {
     link: "/customers",

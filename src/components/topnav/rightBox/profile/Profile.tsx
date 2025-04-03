@@ -11,7 +11,7 @@ function Profile() {
         <img src={images.avt} alt="avatar" />
       </div>
       <div className={classes.profile__info}>
-        <p className={classes.profile__userName}>{t("John Doe")}</p>
+        <p className={classes.profile__userName}>{t("Aloke")}</p>
         {/* <span className={classes.profile__role}>{t("admin")}</span> */}
       </div>
     </div>
